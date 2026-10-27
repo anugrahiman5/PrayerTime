@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jadwal Shalat</string>
+    <string name="widget_name">Jadwal Shalat Widget</string>
+    <string name="widget_description">Widget jadwal waktu shalat otomatis dan countdown shalat terdekat.</string>
+</resources>
